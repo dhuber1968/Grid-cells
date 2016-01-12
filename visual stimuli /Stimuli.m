@@ -1,7 +1,6 @@
 %%Author: Nick Blauch
 %%Updated 1/7/2016
 
-
 %experimental conditions
 view_dist_mm = 500; %mm
 visanglex = 1; 
